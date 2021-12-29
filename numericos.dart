@@ -1,4 +1,4 @@
-void main() {
+void printNumericos() {
   //Númericos, podemos passar o tipo seguido do nome e do valor armazenado.
   int tipo1 = 1;
   double tipo2 = 2.2;
@@ -11,7 +11,7 @@ void main() {
 
   //Podemos passar por constante e a variável fica tipada
   const teste = 1;
-
+  print("======== ARQUIVO 2 ======== ");
   print("A variável tipo1 é um(a) ${tipo1.runtimeType} e seu valor é ${tipo1}");
   print("A variável tipo2 é um(a) ${tipo2.runtimeType} e seu valor é ${tipo2}");
   print("A variável tipo3 é um(a) ${tipo3.runtimeType} e seu valor é ${tipo3}");

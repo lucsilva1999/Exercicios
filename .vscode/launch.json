@@ -8,13 +8,7 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "bin/main.dart"
+            "program": "main.dart"
         },
-        {
-            "name": "Dart & Flutter",
-            "request": "launch",
-            "type": "dart",
-            "program": "tipos.dart"
-        }
     ]
 }
